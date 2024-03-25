@@ -1,0 +1,4 @@
+Coca-Cola,1.1
+Snickers,1.2
+Lay's,1.5
+
